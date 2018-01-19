@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator", "calculator\calculator.csproj", "{5B339172-6629-4AC4-B7EE-02D2CACCA164}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculator", "calculator.csproj", "{5B339172-6629-4AC4-B7EE-02D2CACCA164}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
