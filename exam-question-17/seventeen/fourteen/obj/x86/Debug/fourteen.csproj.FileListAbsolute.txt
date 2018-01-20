@@ -1,0 +1,10 @@
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-14/fourteen/fourteen/obj/x86/Debug/fourteen.csproj.CoreCompileInputs.cache
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-14/fourteen/fourteen/bin/Debug/fourteen.exe
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-14/fourteen/fourteen/bin/Debug/fourteen.pdb
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-14/fourteen/fourteen/obj/x86/Debug/fourteen.exe
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-14/fourteen/fourteen/obj/x86/Debug/fourteen.pdb
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-17/fourteen/fourteen/bin/Debug/fourteen.exe
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-17/fourteen/fourteen/bin/Debug/fourteen.pdb
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-17/fourteen/fourteen/obj/x86/Debug/fourteen.csproj.CoreCompileInputs.cache
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-17/fourteen/fourteen/obj/x86/Debug/fourteen.exe
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-17/fourteen/fourteen/obj/x86/Debug/fourteen.pdb
