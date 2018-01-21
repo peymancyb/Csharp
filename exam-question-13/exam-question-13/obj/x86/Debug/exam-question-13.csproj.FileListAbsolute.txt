@@ -1,0 +1,5 @@
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-13/exam-question-13/bin/Debug/exam-question-13.exe
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-13/exam-question-13/bin/Debug/exam-question-13.pdb
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-13/exam-question-13/obj/x86/Debug/exam-question-13.csproj.CoreCompileInputs.cache
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-13/exam-question-13/obj/x86/Debug/exam-question-13.exe
+/Users/peymanghazvini/Desktop/csharp/Csharp/exam-question-13/exam-question-13/obj/x86/Debug/exam-question-13.pdb
